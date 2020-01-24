@@ -1,0 +1,56 @@
+<html>
+     <head>
+          <title>MY WEBPAGE</title>
+          <style>
+               div{
+                     background-color:lightgreen;
+                     width:300px;
+                     height:300px;
+                     margin:20px;
+                     padding:50px;
+                     text-align:center;
+                     font-family:Arial,Sans-serif;
+                     font-size:14px;
+                     border:5px solid pink;
+                     }
+               h1{
+                    color:lightpink;
+                    text-align:center;
+                     }
+               ol{
+                     font:Arial;
+                     border:1px solid green;
+                     color:gray;
+                    } 
+               input[type=text]{
+                    background-color:yellow;
+                   }
+          </style>
+     </head>
+     <body> 
+          <h1>
+          Welcome to my webpage!</h1>
+<HR ALIGN ="CENTER">
+<BR>
+          <div>
+               Hello there mate!!
+               It's very nice of you that you visited us. You must be a lovely person. Hope to meet you soon!Hehe
+               <img src="back.jpg" height="150" align="center"></div>
+          <p> Hello again! I am no preacher but some knowlege has to be imparted. So here I list some of the traits one must build in himself/herself in order to lead a life of contentment and to improve the lifestyle and take it to the next level:</p>
+          <ol>
+               <li>Give yourself some time everyday and analyze yourself. Accept and work on your flaws along with admiring your best qualities.
+               <li>Along with being a good orator, it is equally important to be a good listener. Patience is a key to it.
+               <li>Having control over oneself or in other words having self-control is a vital quality that a person should possess but is equally challenging. So work towards it a little bit every passing day.
+               <li>There are certain other qualities pertaining to being a reliant and trustworthy person. Some of them are as follows:
+                    <ul>
+                         <li>Be careful and aware of all your responsibilities you have or whatever is expected of you by others.
+                         <li>Do your best to avoid procastination. What is needed to be done at the instant, try not to avoid it but do it at that very moment.
+                         <li>Do not break your promises.
+                         <li>Sincerity towards everything and everyone worthy is the most important.
+                    </ul>
+          </ol>
+          <form>
+               <input name="name" type="text" placeholder="First Name">
+              <input name="age" type="number" placeholder="Age">
+     </body>
+</html>
